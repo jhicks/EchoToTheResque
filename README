@@ -1,4 +1,9 @@
-== Echo To The Resque 
+Echo To The Resque 
+==================
 
 Simple application to play around with Resque
 
+
+* http://www.redis.io
+* http://railscasts.com/episodes/271-resque
+* https://github.com/defunkt/resque
