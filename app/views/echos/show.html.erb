@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @echo.name %>
+</p>
+
+<p>
+  <b>Echo:</b>
+  <%= @echo.echo %>
+</p>
+
+
+<%= link_to 'Edit', edit_echo_path(@echo) %> |
+<%= link_to 'Back', echos_path %>
